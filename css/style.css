@@ -42,6 +42,35 @@
   float:left;
 }
 
+.produto1{
+  background-color: rgb(27, 254, 6);
+  width: 50%;
+  height: auto;
+  float: left;
+}
+
+.produto2{
+  background-color: rgb(139, 137, 230, 0.66);
+  width: 50%;
+  height: auto;
+  float: left;
+}
+
+.carrinho1{
+  background-color: bisque;
+  width: 100%;
+  height: auto;
+  float: left;
+}
+
+.btn{
+  background-color: rgb(36, 33, 223);
+  width: 120px;
+  height: auto;
+  padding: 5px;
+  border-radius: 20px;
+}
+
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
   .header, .navbar, .content, .content2, .footer {
